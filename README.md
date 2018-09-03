@@ -19,9 +19,9 @@ A blessing with best wishes and *"evil protection"* it the least we can do for s
 
 ## How to Bless?
 
-Simple, just create a text file named [*"BLESSING"*](BLESSING.md) and fill it with your blessing. It can be anything you want, some thoughts, a quote, a poem. The only thing that matters is that represent your vision of a better world and best whishes to anyone using your work.
+Simple, just create a text file named [*"BLESSING"*](https://github.com/blessmy/software/blob/master/BLESSING.md) and fill it with your blessing. It can be anything you want, some thoughts, a quote, a poem. The only thing that matters is that represent your vision of a better world and best whishes to anyone using your work.
 
-## Is this a New Software License?
+### Is this a New Software License?
 
 **No**. Is just a file named *"Blessing"* with a nice message :). You can use any software license you already know and love.
 
