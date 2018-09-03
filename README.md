@@ -21,6 +21,10 @@ A blessing with best wishes and *"evil protection"* it the least we can do for s
 
 Simple, just create a text file named [*"BLESSING"*](BLESSING.md) and fill it with your blessing. It can be anything you want, some thoughts, a quote, a poem. The only thing that matters is that represent your vision of a better world and best whishes to anyone using your work.
 
+## Is this a New Software License?
+
+**No**. Is just a file named *"Blessing"* with a nice message :). You can use any software license you already know and love.
+
 ### Badge
 Maybe you would like to include a badge in your *README*
 
@@ -48,7 +52,7 @@ Nintendo engineers were aware that people would mess around with the Nes Mini. S
 
 ## How this did come about?
 
-I saw the [No Harm License](https://github.com/raisely/NoHarm/issues/35) and commented about regarding enforceability. I think that project is a good start if you are an organization that could enforce such higher ethical values to customers, partners and users by using contracts, terms of use and terms of service. In my opinion, if you are a small team or a single developer releasing software without contracts of any kind, then using already available software licenses plus blessing is a better aproach to bring the message of a better world.
+I saw the [No Harm License](https://github.com/raisely/NoHarm/issues/35) and commented about regarding enforceability. I think that project is a good start if you are an organization that could enforce such higher ethical values to customers, partners and users by using contracts, terms of use and terms of service. In my opinion, if you are a small team or a single developer releasing software without contracts of any kind, then using already available software licenses plus blessing is a nice aproach to bring the message of a better world.
 
 ## Why do this at all?
 
