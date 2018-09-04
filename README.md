@@ -21,9 +21,27 @@ A blessing with best wishes and *"evil protection"* it the least we can do for s
 
 Simple, just create a text file named [*"BLESSING"*](https://github.com/blessmy/software/blob/master/BLESSING.md) and fill it with your blessing. It can be anything you want, some thoughts, a quote, a poem. The only thing that matters is that represent your vision of a better world and best whishes to anyone using your work.
 
-### Is this a New Software License?
+### Is this a new software license?
 
-**No**. Is just a file named *"Blessing"* with a nice message :). You can use any software license you already know and love.
+**No**. 
+
+Is just a file named *"Blessing"* with a nice message :). 
+You can use any software license you already know and love.
+
+### Is this related to a religion or similar?
+
+**No**
+
+Is just a message with positive energy and vibes. Like good morning or thank you.
+You can put any message you want though.
+
+### Is this a new kind of code of ethics or something like that?
+
+**No**
+
+Is a simple message. Like a greeting card or email. 
+You can adhere to [Contributor Convenant](https://www.contributor-covenant.org/) or [Code of Merit](http://code-of-merit.org/)
+if you want. And have a blessing too :).
 
 ### Badge
 Maybe you would like to include a badge in your *README*
