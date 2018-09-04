@@ -45,7 +45,7 @@ if you want. And have a blessing too :).
 
 ### How to name the file?
 
-You could choose any name you want. But I recommend one of the following:
+You could choose any name you want. But we recommend one of the following:
 
 - BLESSING
 - BLESSING.md
@@ -78,7 +78,7 @@ Nintendo engineers were aware that people would mess around with the Nes Mini. S
 
 ## How this did come about?
 
-I saw the [No Harm License](https://github.com/raisely/NoHarm/issues/35) and commented about regarding enforceability. I think that project is a good start if you are an organization that could enforce such higher ethical values to customers, partners and users by using contracts, terms of use and terms of service. In my opinion, if you are a small team or a single developer releasing software without contracts of any kind, then using already available software licenses plus blessing is a nice aproach to bring the message of a better world.
+We saw the [No Harm License](https://github.com/raisely/NoHarm) and believe it could be complemented with a nice message in the form of a blessing. So any project both closed and libre/open source with any license could spread the positive message of a better world. 
 
 ## Why do this at all?
 
