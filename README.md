@@ -15,7 +15,7 @@ to protect or guard from evil:
 
 Many software projects both closed and libre/open source ones are being used for causing harm and supporting *"evil"* activities. And unless you have economic and legal resources available for enforcing more ethical uses of your work you can´t really do much to stop that.
 
-A blessing with best wishes and *"evil protection"* it the least we can do for spreading the message. A message that says to anyone using our work that we care about creating a better world. Hopping that the projects they will make using our software will have a positive impact in the planet and lives of current and future generations.
+A blessing with best wishes and *"evil protection"* is the least we can do for spreading the message. A message that says to anyone using our work that we care about creating a better world. Hopping that the projects they will make using our software will have a positive impact in the planet and lives of current and future generations.
 
 ## How to Bless?
 
