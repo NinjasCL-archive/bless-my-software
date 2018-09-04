@@ -2,6 +2,8 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
+<iframe src="https://ghbtns.com/github-btn.html?user=blessmy&repo=software&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+
 [bless  (bles), 
 v.t.,  blessed  or blest, bless•ing.](http://www.wordreference.com/definition/bless)
 
