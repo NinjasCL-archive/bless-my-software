@@ -43,6 +43,14 @@ Is a simple message. Like a greeting card or email.
 You can adhere to [Contributor Convenant](https://www.contributor-covenant.org/) or [Code of Merit](http://code-of-merit.org/)
 if you want. And have a blessing too :).
 
+### How to name the file?
+
+You could choose any name you want. But I recommend one of the following:
+
+- BLESSING
+- BLESSING.md
+- blessing.txt
+
 ### Badge
 Maybe you would like to include a badge in your *README*
 
