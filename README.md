@@ -2,6 +2,9 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
+- [English](http://blessmy.software/)
+- [Español](http://blessmy.software/es)
+
 [bless  (bles), 
 v.t.,  blessed  or blest, bless•ing.](http://www.wordreference.com/definition/bless)
 
@@ -62,7 +65,7 @@ Maybe you would like to include a badge in your *README*
 
 ### Examples
 
-A good example is shown in the [SQLite license](https://www.sqlite.org/different.html#license)
+A good example is shown in the [SQLite License](https://www.sqlite.org/different.html#license)
 
 >  The SQLite source code contains no license since it is not governed by copyright. Instead of a license, the SQLite source code offers a blessing:
 > 
