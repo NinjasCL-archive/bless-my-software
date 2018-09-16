@@ -54,8 +54,15 @@ Tal ves quieras incluir la siguiente etiqueta en tu *README*
 
 ![This software is Blessed](https://img.shields.io/badge/blessed-100%25-770493.svg)
 
-```
+```markdown
 ![This software is Blessed](https://img.shields.io/badge/blessed-100%25-770493.svg)
+```
+
+### HTML
+Tal ves quieras poner una bendición para los visitantes de tu sitio web. Puedes usar lo siguiente dentro de la etiqueta *head*.
+
+```html
+<link type="text/plain" rel="blessing" href="https://example.com/blessing.txt">
 ```
 
 ### Ejemplos
