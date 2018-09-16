@@ -63,6 +63,12 @@ Maybe you would like to include a badge in your *README*
 ![This software is Blessed](https://img.shields.io/badge/blessed-100%25-770493.svg)
 ```
 
+### HTML
+If you want to include a blessing in some website maybe you could use this in the *head*.
+```
+<link type="text/plain" rel="blessing" href="https://example.com/blessing.txt">
+```
+
 ### Examples
 
 A good example is shown in the [SQLite License](https://www.sqlite.org/different.html#license)
